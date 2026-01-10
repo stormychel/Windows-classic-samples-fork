@@ -363,5 +363,3 @@ _DllEntryPoint(
 #endif
     return TRUE;
 }
-
-
