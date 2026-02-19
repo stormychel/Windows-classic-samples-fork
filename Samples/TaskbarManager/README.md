@@ -2,6 +2,8 @@
 page_type: sample
 languages:
 - cpp
+- cppwinrt
+- csharp
 products:
 - windows-api-win32
 name: Taskbar pinning sample
